@@ -11,6 +11,7 @@ collections:
   edm:
     title: edm
     output: true
+    permalink: edm
 defaults:
 - scope:
     path: ''
